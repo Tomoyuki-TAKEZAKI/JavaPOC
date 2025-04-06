@@ -2,8 +2,8 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-//        runJavaPhoneNumberPrinter();
-        runKotlinPhoneNumberPrinter();
+        runJavaPhoneNumberPrinter();
+//        runKotlinPhoneNumberPrinter();
     }
 
     public static void runJavaPhoneNumberPrinter() {
