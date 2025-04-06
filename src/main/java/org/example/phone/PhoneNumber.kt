@@ -1,4 +1,4 @@
-package org.example.sample
+package org.example.phone
 
 @JvmInline
 value class PhoneNumber(

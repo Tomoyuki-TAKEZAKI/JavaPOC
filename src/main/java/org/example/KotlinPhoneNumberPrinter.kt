@@ -1,6 +1,6 @@
 package org.example
 
-import org.example.sample.PhoneNumber
+import org.example.phone.PhoneNumber
 
 class KotlinPhoneNumberPrinter {
     fun run() {

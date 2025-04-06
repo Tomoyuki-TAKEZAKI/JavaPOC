@@ -1,7 +1,5 @@
 package org.example;
 
-import org.example.sample.PhoneNumber;
-
 public class JavaPhoneNumberPrinter {
     void run() {
         // This code fails to compile!
